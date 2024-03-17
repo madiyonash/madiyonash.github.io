@@ -1,5 +1,5 @@
 ---
-title: "Deno Upgrade"
+title: "Madi's Blog"
 listing:
   contents: posts
   sort: "date desc"
