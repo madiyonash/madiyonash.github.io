@@ -5,8 +5,12 @@ date: "2024-03-14"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Welcome! My name is Madison Yonash and I am a student at Florida Polytechnic University, where I study business analytics with a concentration in Advanced Topics. My areas of interest include data storytelling, feature engineering, and model exploration. 
 
-![](thumbnail.jpg)
+![Me at a club showcase for my university](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+At Florida Poly, I have served in a number of interesting roles that have helped me progress professionally and personally. Most notably, I founded and run the Women's Club Soccer Team and Women's Powerlifting Team. I also have served as a Foundation Board Director, Presidential Ambassador (as recruitment coordinator and secretary), Orientation Leader, and Admissions Ambassador. 
+
+In the professional space, I have worked as a research assistant for two different projects at Florida Poly and have completed an internship with Gartner. 
+
+I hope you enjoy my nerding out!
