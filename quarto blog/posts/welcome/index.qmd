@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Madison Yonash"
 date: "2024-03-14"
 categories: [news]
 ---
